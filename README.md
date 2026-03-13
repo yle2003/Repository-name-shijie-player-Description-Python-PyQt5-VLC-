@@ -1,11 +1,12 @@
 # Repository-name-shijie-player-Description-Python-PyQt5-VLC-
 这是我制作的第一款软件。集合了播放音乐，视频，电视节目为一体的播放器。
 # 视界播放器 (Vision Player)
+
+---
+
+# 软件界面
 <img width="1000" height="600" alt="aa398e60a7172e7fcb3f34b933ee5580" src="https://github.com/user-attachments/assets/03f43a26-37c5-405a-9c99-92198ed531dc" />
 <img width="1000" height="600" alt="2e1323c471a53dffe5bbc75ea799d369" src="https://github.com/user-attachments/assets/7823b272-ef38-42dc-99c3-2f5b244fed5c" />
-
-
-
 一款基于 **Python + PyQt5 + VLC** 开发的桌面视频播放器。
 支持 **本地视频、音乐播放、IPTV电视直播以及播放列表管理**。
 
@@ -27,11 +28,6 @@
 * 实现 IPTV 电视播放
 * 设计播放器架构
 
----
-
-# 软件界面
-
-![视界播放器界面](screenshot.png)
 
 ---
 
